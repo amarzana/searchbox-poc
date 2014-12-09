@@ -1,0 +1,17 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+em {
+  background-color: yellow;
+}
+
+.result {
+  margin-bottom: 40px;
+}
+
+.path {
+  font-size: large;
+  color:navy;
+}
